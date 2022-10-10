@@ -31,10 +31,10 @@ Challenges- Some of the challenges some may run in to if entering the correct fo
 In Conclusion, although no pledges cancelled on the subcategory _Plays_, the amount of successful goals reached were less than 80% in all ranges, down to 0%. The higher the range, the goals were achieved more frenquently 
 
 ###### Results
-What are some limitations of this dataset?
+1. What are some limitations of this dataset?
 
-*The limitations from the dataset were that we could only give a specific analization for 2 different categories, instead of all
+    -The limitations from the dataset were that we could only give a specific analization for 2 different categories, instead of all
     
-What are some other possible tables and/or graphs that we could create?
+2. What are some other possible tables and/or graphs that we could create?
 
-*Some possible graphs we could have used was a stacked bar graph. That wouls display a difference in between the two ouctomes 
+    -Some possible graphs we could have used was a stacked bar graph. That wouls display a difference in between the two ouctomes 
